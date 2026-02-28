@@ -1,6 +1,7 @@
 {
   "name": "renovateiq-backend",
   "version": "2.0.0",
+  "type": "module",
   "description": "RenovateIQ Home Renovation Tracker — Express API",
   "main": "server.js",
   "scripts": {
